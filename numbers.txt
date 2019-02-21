@@ -1,10 +1,10 @@
-One
-Two
-Three
-Four
-Five
-Six
-Seven
-Eight
-Nine
-Ten
+One, Un
+Two, Deux
+Three, Trois
+Four, Quatre
+Five, Cinq
+Six, Six
+Seven, Sept
+Eight, Huit
+Nine, Neuf
+Ten, Dix
